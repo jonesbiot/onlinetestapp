@@ -1,0 +1,18 @@
+{
+    "questions":[
+        {"qid":1,"question":"What is the correct value when you add 0 to 2.89?","ans1":"0.0","ans2":"2.89","ans3":"10","ans4":"9"},
+        {"qid":2,"question":"What is react js","ans1":"programming language","ans2":"javascript library ","ans3":"javascript framework","ans4":"java framework"},
+        {"qid":3,"question":"When was React first released?","ans1":"March 2014","ans2":"March 2013","ans3":"March 2019","ans4":"March 2023"},
+        {"qid":4,"question":"What are Props in react js?","ans1":"Markup Lang","ans2":"Props mean properties, which is a way of passing data from parent to child","ans3":"Redux","ans4":" None of above"},
+       {"qid":5,"question":"What is the use of a super keyword in React??","ans1":" Has no use","ans2":"The super keyword helps you to access and call functions on an object’s parent","ans3":"programming language","ans4":"ALL Above"}
+
+    ],
+    "answers":[
+        {"qid":1,"correctAns":2.89},
+        {"qid":2,"correctAns":"javascript library"},
+        {"qid":3,"correctAns":"March 2013"},
+        {"qid":4,"correctAns":"Props mean properties, which is a way of passing data from parent to child"},
+        {"qid":5,"correctAns":"The super keyword helps you to access and call functions on an object’s parent"}
+    ]
+
+}
